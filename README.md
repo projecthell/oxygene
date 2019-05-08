@@ -1,4 +1,3 @@
-===========================================================================
                   TITLE : Oxygéne ALPHA
               FILE NAME : Oxygéne ALPHA.WAD
              BUILT DATE : December 2014
@@ -16,7 +15,6 @@
                                      The map was previously known as "The Devil Sleeps", but due
                                      to personal dislike of the name, I changed it to Oxygéne.
                                      
-===========================================================================
 
 -------------------------
     PACKAGE INFORMATION :
