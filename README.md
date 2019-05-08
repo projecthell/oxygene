@@ -33,7 +33,7 @@
               NEW SPRITES  : Yes
               NEW TEXTURES : Yes
                  NEW DEMOS : No
-								 
+				
 								 
               CONSTRUCTION
                       BASE : DOOM II
