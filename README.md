@@ -1,5 +1,5 @@
-                     TITLE : Oxygéne ALPHA
-                 FILE NAME : Oxygéne ALPHA.WAD
+                     TITLE : Oxygéne
+                 FILE NAME : oxygene.WAD
                 BUILT DATE : December 2014
               RELEASE DATE : 28/08/2015
                     AUTHOR : OFFICIALDOOMGUY
