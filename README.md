@@ -16,31 +16,32 @@
                              to personal dislike of the name, I changed it to Oxygéne.
                                      
 
-       PACKAGE INFORMATION :
+       PACKAGE INFORMATION
                   REQUIRES : DOOM II.wad
                                    Any other wad files or pk3 files
                                    are optional.
 
 
-          GAME INFORMATION :
-                      MAPS : 4
+          GAME INFORMATION
+                      MAPS : 7
              SINGLE PLAYER : Yes
     COOPERATIVE 2-8 PLAYER : No
      DEATHMATCH 2-8 PLAYER : No
        DIFFICULTY SETTINGS : Yes
                 NEW SOUNDS : Yes
-                 NEW MUSIC : Sort of
-              NEW SPRITES  : Yes (mainly monsters, some scenery)
-              NEW TEXTURES : No
+                 NEW MUSIC : Yes
+              NEW SPRITES  : Yes
+              NEW TEXTURES : Yes
                  NEW DEMOS : No
 								 
 								 
-              CONSTRUCTION :
-
+              CONSTRUCTION
                       BASE : DOOM II
-                BUILD TIME : 4 Years so far.
+                BUILD TIME : 5 Years so far.
               EDITORS USED : GZDoom Builder, Slade and WhackEd4
-                KNOWN BUGS : I am unsure. Report any to me if you find any.
+                KNOWN BUGS : Occasionally textures will clip through objects such as
+		             explosive barrels and we're not sure as to why this happens
+			     or how we should fix it.
 
 
 ---------------------------
