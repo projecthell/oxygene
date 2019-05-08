@@ -5,7 +5,7 @@
            RELEASE DATE : 28/08/2015
                  AUTHOR : OFFICIALDOOMGUY
           COLLABORATORS : Implified
-          EMAIL ADDRESS : felthamjordan@gmail.com
+          EMAIL ADDRESS : projecthellteam@gmail.com
   OTHER FILES BY AUTHOR : Moonbase Omega, fcku
             DESCRIPTION : This is an updated version of the demo for Oxygéne. The
                                      file contains the first six levels, use any codes you like
@@ -15,7 +15,6 @@
                                      be the first 6 or so maps.
                                      The map was previously known as "The Devil Sleeps", but due
                                      to personal dislike of the name, I changed it to Oxygéne.
-
 ===========================================================================
 
 -------------------------
