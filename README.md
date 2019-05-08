@@ -3,7 +3,8 @@
               FILE NAME : Oxygéne ALPHA.WAD
              BUILT DATE : December 2014
            RELEASE DATE : 28/08/2015
-                 AUTHOR : Jordan Feltham
+                 AUTHOR : OFFICIALDOOMGUY
+          COLLABORATORS : Implified
           EMAIL ADDRESS : felthamjordan@gmail.com
   OTHER FILES BY AUTHOR : Moonbase Omega, fcku
             DESCRIPTION : This is an updated version of the demo for Oxygéne. The
