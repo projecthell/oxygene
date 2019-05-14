@@ -56,7 +56,7 @@ COPYRIGHT AND PERMISSIONS :
 
 You CAN distribute this package via the internet, CD or USB Sticks.
 
-You CANNOT take any credit for this map whatsoever.
+You CANNOT take any credit for this mod whatsoever.
 
 You CANNOT modify this map and redistribute it as your own.
 
