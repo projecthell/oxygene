@@ -20,6 +20,12 @@
                   REQUIRES : DOOM II.wad
                                    Any other wad files or pk3 files
                                    are optional.
+      COMPATIBILITY ISSUES : Possible compatibility issues with mods such as BRUTAL DOOM or
+                             PROJECT BRUTALITY due to this wad containing its own custom
+			     enemies and weapons (which were all obtained from REALM667).
+			     Basically any other pk3 file that affects enemy sprites
+			     and base weapon sprites and the way they perform COULD be
+			     incompatible, however I am unsure of this.
 
 
           GAME INFORMATION
